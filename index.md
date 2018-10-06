@@ -3,8 +3,7 @@ layout: default
 ---
 
 <div class="title">
-  <img src="{{ site.baseurl }}/assets/logo-hack.png">
-  CWB
+  Hacktoberfest CWB 2018
 </div>
 
 Dia **20/Out** na UFPR, faremos um evento local para o
@@ -14,8 +13,8 @@ Venha participar.
 Para ver detalhes da organização, acesse
 [aqui](https://github.com/abelsiqueira/hacktoberfest-cwb-2018).
 
-<h1 class="bg-emph">Site em construção, as informações aqui podem mudar a qualquer
-momento. Vá ao site da organização acim para ver informações mais atuais</h1>
+*Aviso: detalhes do evento ainda estão sendo discutidos, como a agenda e as
+apresentações. Se quiser **apresentar** vá ao site acima.*
 
 Inscrição
 

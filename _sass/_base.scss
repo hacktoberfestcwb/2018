@@ -1,7 +1,11 @@
 body {
   background-image: url("../assets/background.png");
-  background-color: $crimson;
+  background-color: desaturate($crimson, 20%);
   color: white;
+}
+
+p {
+  text-align: justify;
 }
 
 .layer {
@@ -17,6 +21,8 @@ body {
 }
 
 .main {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 500;
   border-width: 0px 1px;
   border-color: $blue;
   border-style: solid;
@@ -27,7 +33,7 @@ body {
 
 footer {
   background: $crimson;
-  border-top: 3px solid $blue;
+  border-top: 1px solid $blue;
 }
 
 a {
@@ -42,8 +48,9 @@ a {
 }
 
 .title {
+  font-family: 'Dancing Script', cursive;
   padding: 50px;
-  font-size: 4em;
+  font-size: 6em;
   text-align: center;
 }
 
