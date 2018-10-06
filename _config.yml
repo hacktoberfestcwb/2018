@@ -1,6 +1,6 @@
 title: "Hacktoberfest CWB 2018"
-baseurl: "/hacktoberfest-cwb-2018/"
+baseurl: "/2018/"
 description: "Hacktoberfest CWB 2018"
-github_username: abelsiqueira
+github_username: hacktoberfest
 markdown: kramdown
 
