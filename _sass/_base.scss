@@ -1,11 +1,23 @@
 body {
-  background-image: url("../assets/background.jpg");
+  background-image: url("../assets/background.png");
   background-color: $crimson;
   color: white;
 }
 
+.layer {
+  background-color: rgba(200, 200, 200, 0.7);
+}
+
+.drop-pad {
+  border-width: 0px 1px;
+  border-color: $blue;
+  border-style: solid;
+  border-bottom: 1px $amber solid;
+  padding: 0px;
+}
+
 .main {
-  border-width: 0px 3px;
+  border-width: 0px 1px;
   border-color: $blue;
   border-style: solid;
   background: $crimson;

@@ -1,2 +1,8 @@
 - name: Tradução do Cheat Sheet do Julia
-  url: https://abelsiqueira.github.io/
+  url: https://github.com/JuliaDocs/Julia-Cheat-Sheet
+- name: Projetos brasileiros para contribuir
+  url: https://medium.com/@jessicatemporal/projetos-brasileiros-para-contribuir-nesse-hacktoberfest-vers%C3%A3o-2018-4925959b9411
+- name: mcglm - Fitting multivariate covariance generalized linear models
+  url: https://github.com/wbonat/mcglm
+- name: mglm4twin - Multivariate Generalized Linear models for twin data
+  url: https://github.com/wbonat/mglm4twin
