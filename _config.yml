@@ -6,3 +6,4 @@ markdown: kramdown
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
