@@ -2,21 +2,20 @@
 layout: default
 ---
 
-<div class="title">
-  Hacktoberfest CWB 2018
-</div>
+<p class="anuncio">
+Dia <strong>20/Out</strong> na UFPR, faremos um evento local para o
+<a href="https://hacktoberfest.digitalocean.com/"> Hacktoberfest</a>.
+Venha participar<br>
 
-Dia **20/Out** na UFPR, faremos um evento local para o
-[Hacktoberfest](https://hacktoberfest.digitalocean.com/).
-Venha participar.
+<a href="https://goo.gl/forms/J62F29jMm5Gpl85m2">Inscrições abertas</a>
+até dia 16/10, 23:59.
+</p>
 
 Para ver detalhes da organização, acesse
-[aqui](https://github.com/abelsiqueira/hacktoberfest-cwb-2018).
+[aqui](https://github.com/hacktoberfestcwb/2018/).
 
 *Aviso: detalhes do evento ainda estão sendo discutidos, como a agenda e as
-apresentações. Se quiser **apresentar** vá ao site acima.*
-
-Inscrição
+apresentações. Se quiser **apresentar** ou participar das discussões vá ao site acima.*
 
 ## Agenda
 
@@ -42,12 +41,11 @@ Inscrição
   </tr>
   <tr>
     <td class="text-right">14:00</td>
-    <td rowspan="2">Workshop de git e GitHub para iniciantes</td>
-    <td>Tópicos avançados de git (como errar certo)</td>
+    <td rowspan="2">Workshops*</td>
+    <td rowspan="2">Workshops*</td>
   </tr>
   <tr>
     <td class="text-right">15:00</td>
-    <td>???</td>
   </tr>
   <tr>
     <td class="text-right">16:00</td>
@@ -79,6 +77,12 @@ as pessoas conhecerem alguém do projeto para conversar posteriormente.
 {% for x in site.data.apresentacoes %}
 - **{{ x.name }}** (*{{ x.title }}*);
 {% endfor %}
+
+## Workshop
+
+Ainda não fechamos os workshops. Gostaríamos de fazer um de git básico para iniciantes,
+e talvez um intermediário. Se você tiver disponibilidade, entre em contato no
+[GitHub](https://github.com/hacktoberfestcwb/2018/).
 
 ## Projetos
 
