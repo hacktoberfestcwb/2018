@@ -1,5 +1,6 @@
 ---
 layout: default
+image: /assets/thumbnail.jpg
 ---
 
 <p class="anuncio">

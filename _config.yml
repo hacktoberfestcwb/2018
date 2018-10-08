@@ -4,3 +4,5 @@ description: "Hacktoberfest CWB 2018"
 github_username: hacktoberfest
 markdown: kramdown
 
+plugins:
+  - jekyll-seo-tag
