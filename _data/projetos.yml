@@ -6,3 +6,9 @@
   url: https://github.com/wbonat/mcglm
 - name: mglm4twin - Multivariate Generalized Linear models for twin data
   url: https://github.com/wbonat/mglm4twin
+- name: labestData - Conjuntos de dados
+  url: https://github.com/pet-estatistica/labestData
+- name: nlmSet - Catálogo Web de Modelos Não Lineares
+  url: https://github.com/leg-ufpr/nlmSet
+
+
