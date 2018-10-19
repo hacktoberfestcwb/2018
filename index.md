@@ -8,8 +8,10 @@ Dia <strong>20/Out</strong> na UFPR, faremos um evento local para o
 <a href="https://hacktoberfest.digitalocean.com/"> Hacktoberfest</a>.
 Venha participar<br>
 
-<a href="https://goo.gl/forms/J62F29jMm5Gpl85m2">Inscrições abertas</a>
-até dia 16/10, 23:59.
+As inscriçes para o Hacktoberfest Curitiba 2018 já foram <strong>encerradas</strong>!!  
+
+As atividades da parte da manhã são abertas para o público em geral. Porém, somente pessoas inscritas previamente poderão ter acesso ao evento na parte da tarde.  
+Da mesma forma, apenas pessoas inscritas previamente poderão ter acesso aos computadores e internet para a realização das atividades!
 </p>
 
 Para ver detalhes da organização, acesse
