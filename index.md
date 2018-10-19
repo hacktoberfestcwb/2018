@@ -81,8 +81,12 @@ as pessoas conhecerem alguém do projeto para conversar posteriormente.
 
 ## Workshop
 
-Ainda não fechamos os workshops. Gostaríamos de fazer um de git básico para iniciantes,
-e talvez um intermediário. Se você tiver disponibilidade, entre em contato no
+Os workshops serão:  
+-**GIT do Zero** (14:00hrs). Para iniciantes.  
+-**GIT pra Quem Sabe** (14:00hrs). Para intermediários.  
+
+
+Se você tiver disponibilidade para dar algum workshop, entre em contato pelo
 [GitHub](https://github.com/hacktoberfestcwb/2018/).
 
 ## Projetos
