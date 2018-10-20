@@ -10,5 +10,9 @@
   url: https://github.com/pet-estatistica/labestData
 - name: nlmSet - Catálogo Web de Modelos Não Lineares
   url: https://github.com/leg-ufpr/nlmSet
-
-
+- name: FAROL - PET Computação
+  url: https://github.com/PETComputacaoUFPR/Farol
+- name: Apostila Imigrantes - PET Computação
+  url: https://github.com/PETComputacaoUFPR/Imigrantes
+- name: STROOP - PET Computação
+  url: https://github.com/PETComputacaoUFPR/Stroop
