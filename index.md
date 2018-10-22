@@ -4,9 +4,15 @@ image: /assets/thumbnail.jpg
 ---
 
 <p class="anuncio">
-Dia <strong>20/Out</strong> na UFPR, faremos um evento local para o
-<a href="https://hacktoberfest.digitalocean.com/"> Hacktoberfest</a>.
-Venha participar<br>
+O Hacktoberfest CWB 2018 aconteceu dia <strong>20/Out</strong> na UFPR, como evento
+local do
+<a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a>.
+<br>
+<img src="{{site.baseurl}}/assets/fechamento.jpg">
+<br>
+Quer ajudar na organização da versão 2019? Entre
+<a href="https://github.com/hacktoberfestcwb/2019">aqui</a>.
+</p>
 
 As inscriçes para o Hacktoberfest Curitiba 2018 já foram <strong>encerradas</strong>!!  
 
